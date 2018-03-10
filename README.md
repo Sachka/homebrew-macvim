@@ -10,8 +10,8 @@
 
  2. Tap MacVim formula
 
-   `$ brew tap macvim-dev/macvim`
+   `$ brew tap sachka/macvim`
 
 ### Install
 
-    $ brew install --HEAD macvim-dev/macvim/macvim
+    $ brew install --HEAD sachka/macvim/macvim
