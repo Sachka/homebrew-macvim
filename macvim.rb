@@ -48,8 +48,8 @@ class Macvim < Formula
                           '--enable-python3interp=dynamic',
                           '--enable-rubyinterp=dynamic',
                           '--enable-luainterp=dynamic',
-                          "--with-lua-prefix=#{HOMEBREW_PREFIX}",
                           '--with-override-system-vim',
+                          "--with-lua-prefix=#{HOMEBREW_PREFIX}",
                           *opts
 
     system 'make'
