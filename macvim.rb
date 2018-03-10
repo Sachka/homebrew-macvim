@@ -43,7 +43,6 @@ class Macvim < Formula
                           '--with-tlib=ncurses',
                           '--enable-cscope',
                           '--enable-termtruecolor',
-                          '--with-override-system-vim',
                           '--enable-perlinterp=dynamic',
                           '--enable-pythoninterp=dynamic',
                           '--enable-python3interp=dynamic',
